@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Alas i Cerc",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-25T19:28:13.399Z",
+      "notes": "just added new city",
+      "position": {
+        "lat": "42.32606244456202",
+        "lng": "1.4941406250000002"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Lena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-25T19:32:06.868Z",
+      "notes": "new city",
+      "position": {
+        "lat": "43.100982876188546",
+        "lng": "-5.77880859375"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-25T20:01:35.882Z",
+      "notes": "new delhi",
+      "position": {
+        "lat": "28.58452171937042",
+        "lng": "77.26135253906251"
+      },
+      "id": 98443200
+    }
+  ]
+}
